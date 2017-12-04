@@ -1,3 +1,5 @@
+
+
 #include<stdio.h>
 
 /*bool to check input correctness, we can distinct it for, lets say numbers,
@@ -28,6 +30,8 @@ void boardView(){
 void fileOutput(){
 
 }
+
+/*to check the possibility of movement is by -same y or -same |x-y| */
 
 /*placement and movements of penguins made by player */
 void place(){
